@@ -1,0 +1,21 @@
+{
+  "name": "awesome-anime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "file": "node file.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.1.0",
+    "fs": "0.0.1-security",
+    "fs-extra": "^4.0.1"
+  },
+  "dependencies": {
+    "array-collection": "0.0.7"
+  }
+}
