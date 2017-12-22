@@ -26,6 +26,7 @@
 * [Magical Girl Rising Project (โครงการสาวน้อยเวทย์มนต์)](#)
 * [Mahou Shoujo Lyrical Nanoha Striker](#)
 * [Mahou Shoujo Lyrical Nanoha Vivid](#)
+* [Mahou Shoujo Madoka Magika](#)
 * [Nagi no Asukara](#)
 * [Nanoha The Movie 1st](#)
 * [Nanoha The Movie 2nd](#)

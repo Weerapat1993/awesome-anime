@@ -43,6 +43,7 @@ const anime = [
   'Mahou Shoujo Lyrical Nanoha Vivid',
   'Vivid Strike',
   'Magical Girl Rising Project (โครงการสาวน้อยเวทย์มนต์)',
+  'Mahou Shoujo Madoka Magika',
 ]
 
 const mapArr = anime.map((item, id) => ({

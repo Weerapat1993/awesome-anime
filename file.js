@@ -20,3 +20,6 @@ ${anime2017}
 )
 
 log.success('created README.md file success!!')
+
+log.default('\nPlease check commit in webside\n')
+log.default('https://github.com/Weerapat1993/awesome-anime')
