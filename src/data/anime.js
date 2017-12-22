@@ -8,7 +8,9 @@ const anime = [
   'Yuuki Yuuna wa Yuusha de Aru Washio no Shou',
   'Yuuki Yuuna wa Yuusha de Aru Yuusha no Shou',
   'Assassination Classroom',
-  'Saki',
+  'Saki (เซียนสาวไพ่นกกระจอก)',
+  'Saki Episode of Side A (เซียนสาวไพ่นกกระจอก - บทเสริม ภาคอิจิกะ)',
+  'Saki Zenkoku Hen (เซียนสาวไพ่นกกระจอก - ภาคระดับประเทศ)',
   'Kore wa Zombie desu ka?',
   'Kore wa Zombie desu ka? of The Dead',
   'One Punch Man',
@@ -34,6 +36,13 @@ const anime = [
   'Fate/kaleid liner PRISMA ILLYA 3rei!!',
   'Hai to Gensou no Grimgar (ขี้เถ้าในแดนกริมการ์)',
   'High School Fleet',
+  'Nanoha The Movie 1st',
+  'Nanoha The Movie 2nd',
+  'Nanoha The Movie 3rd Reflection',
+  'Mahou Shoujo Lyrical Nanoha Striker',
+  'Mahou Shoujo Lyrical Nanoha Vivid',
+  'Vivid Strike',
+  'Magical Girl Rising Project (โครงการสาวน้อยเวทย์มนต์)',
 ]
 
 const mapArr = anime.map((item, id) => ({
