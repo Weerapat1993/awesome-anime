@@ -14,7 +14,6 @@ git status
 echo " --- Git Commit ---\n";
 git commit -m "Commit Updated"
 echo "${green} --- Git Commit Success ---${reset}\n";
-git status
 echo " --- Git Push ---\n";
 git push
 echo "${green} --- Git Push Success ---${reset}\n";
