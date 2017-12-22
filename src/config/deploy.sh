@@ -6,12 +6,15 @@ reset=`tput sgr0`;
 
 npm run file
 
-echo "--- Git Add File ---\n";
+echo " --- Git Add File ---\n";
+git status
 git add .
 echo "${green} --- Git Add File Success ---${reset}\n";
-echo "--- Git Commit ---\n";
+git status
+echo " --- Git Commit ---\n";
 git commit -m "Commit Updated"
 echo "${green} --- Git Commit Success ---${reset}\n";
-echo "--- Git Push ---\n";
+git status
+echo " --- Git Push ---\n";
 git push
 echo "${green} --- Git Push Success ---${reset}\n";
