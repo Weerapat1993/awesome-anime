@@ -44,6 +44,11 @@ const anime = [
   'Vivid Strike',
   'Magical Girl Rising Project (โครงการสาวน้อยเวทย์มนต์)',
   'Mahou Shoujo Madoka Magika',
+  'Re:Zero',
+  'Magi',
+  'Hidan no Aria',
+  'Hidan no Aria AA',
+  'Black Bullet',
 ]
 
 const mapArr = anime.map((item, id) => ({
