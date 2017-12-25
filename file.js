@@ -8,7 +8,7 @@ log.info('creating README.md file ...')
 
 let anime2017 = ''
 const text = Anime.map((item) => {
-  anime2017 += `* [${item.name}](#)\n`
+  anime2017 += `* [${item.name}](./src/content/saki.md)\n`
 })
 
 fs.writeFileSync(`${path.join(__dirname, './README.md')}`,
