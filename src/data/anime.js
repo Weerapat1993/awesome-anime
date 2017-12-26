@@ -53,7 +53,6 @@ const anime = [
   'To Aru Kagaku no Railgun (เรลกัน แฟ้มลับคดีวิทยาศาสตร์)',
   'To Aru Majutsu no Index (อินเด็กซ์ คัมภรีคถาต้องห้าม)',
   'Strike Blood',
-  'Selector Infected WIXOSS',
 ]
 
 const mapArr = anime.map((item, id) => ({
