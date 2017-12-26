@@ -16,6 +16,7 @@
     "fs-extra": "^4.0.1"
   },
   "dependencies": {
-    "array-collection": "0.0.7"
+    "array-collection": "0.0.7",
+    "case": "^1.5.4"
   }
 }

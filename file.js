@@ -1,6 +1,7 @@
 const fs = require('fs')
 const fse = require('fs-extra')
 const path = require('path')
+const Case = require('case')
 const { Anime } = require('./src/data')
 const { Log } = require('./src/utils')
 const log = new Log()
@@ -8,7 +9,7 @@ log.info('creating README.md file ...')
 
 let anime2017 = ''
 const text = Anime.map((item) => {
-  anime2017 += `* [${item.name}](./src/content/saki.md)\n`
+  anime2017 += `* [${item.name}](${item.link})\n`
 })
 
 fs.writeFileSync(`${path.join(__dirname, './README.md')}`,
@@ -19,7 +20,28 @@ ${anime2017}
 `
 )
 
-log.success('created README.md file success!!')
+const contents = [
+  'Kore wa Zombie desu ka',
+  'Nanoha',
+]
 
-log.default('\nPlease check commit in webside\n')
-log.default('https://github.com/Weerapat1993/awesome-anime')
+contents.map(content => {
+  fs.writeFileSync(`${path.join(__dirname, `./src/content/${Case.snake(content)}.md`)}`,
+`# ${content}
+
+| ${content} |
+| :------:|
+| ![${content}](../assets/images/${Case.snake(content)}.jpg) |
+
+## เนื้อเรื่อง
+
+Laboris adipisicing et aliquip do anim amet fugiat veniam duis elit elit non. Elit do reprehenderit est ipsum proident cillum minim dolore culpa id nulla sit. Nisi duis sunt nulla ipsum labore irure amet.
+
+## ตัวละคร
+
+Laboris adipisicing et aliquip do anim amet fugiat veniam duis elit elit non. Elit do reprehenderit est ipsum proident cillum minim dolore culpa id nulla sit. Nisi duis sunt nulla ipsum labore irure amet.
+
+`)
+})
+
+log.success('created README.md file success!!')

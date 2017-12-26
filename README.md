@@ -44,6 +44,7 @@
 * [Saki (เซียนสาวไพ่นกกระจอก)](./src/content/saki.md)
 * [Saki Episode of Side A (เซียนสาวไพ่นกกระจอก - บทเสริม ภาคอิจิกะ)](./src/content/saki.md)
 * [Saki Zenkoku Hen (เซียนสาวไพ่นกกระจอก - ภาคระดับประเทศ)](./src/content/saki.md)
+* [Selector Infected WIXOSS](./src/content/saki.md)
 * [Strike Blood](./src/content/saki.md)
 * [Strike Witch](./src/content/saki.md)
 * [To Aru Kagaku no Railgun (เรลกัน แฟ้มลับคดีวิทยาศาสตร์)](./src/content/saki.md)

@@ -53,11 +53,13 @@ const anime = [
   'To Aru Kagaku no Railgun (เรลกัน แฟ้มลับคดีวิทยาศาสตร์)',
   'To Aru Majutsu no Index (อินเด็กซ์ คัมภรีคถาต้องห้าม)',
   'Strike Blood',
+  'Selector Infected WIXOSS',
 ]
 
 const mapArr = anime.map((item, id) => ({
   id: id + 1,
-  name: item
+  name: item,
+  link: './src/content/saki.md'
 }))
 
 module.exports = Anime(mapArr).orderBy('name','asc').get()
