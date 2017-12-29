@@ -6,8 +6,8 @@ const anime = [
   'Himouto! Umaru-chan',
   'Himouto! Umaru-chan R',
   'Yuuki Yuuna wa Yuusha de Aru (ตำนานผู้กล้ายูนะ)',
-  'Yuuki Yuuna wa Yuusha de Aru Washio no Shou (ตำนานผู้กล้ายูนะ ภาควาชิโอะ)',
-  'Yuuki Yuuna wa Yuusha de Aru Yuusha no Shou (ตำนานผู้กล้ายูนะ ภาคผู้กล้า)',
+  'Yuuki Yuuna wa Yuusha de Aru - Washio Sumi no Shou (ตำนานผู้กล้ายูนะ ภาควาชิโอะ)',
+  'Yuuki Yuuna wa Yuusha de Aru - Yuusha no Shou (ตำนานผู้กล้ายูนะ ภาคผู้กล้า)',
   'Assassination Classroom (ห้องเรียนลอบสังหาร)',
   'Saki (เซียนสาวไพ่นกกระจอก)',
   'Saki Episode of Side A (เซียนสาวไพ่นกกระจอก - บทเสริม ภาคอิจิกะ)',
@@ -54,6 +54,8 @@ const anime = [
   'To Aru Kagaku no Railgun (เรลกัน แฟ้มลับคดีวิทยาศาสตร์)',
   'To Aru Majutsu no Index (อินเด็กซ์ คัมภรีคถาต้องห้าม)',
   'Strike Blood',
+  'Selector Infected WIXOSS',
+  'Selector Spread WIXOSS',
 ]
 
 const mapArr = anime.map((item, id) => ({
