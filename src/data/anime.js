@@ -1,4 +1,5 @@
 const { Anime } = require('../model')
+const { Search } = require('../utils')
 
 // Anime
 const anime = [
@@ -58,7 +59,7 @@ const anime = [
 const mapArr = anime.map((item, id) => ({
   id: id + 1,
   name: item,
-  link: './src/content/saki.md'
+  link: Search(item)
 }))
 
 module.exports = Anime(mapArr).orderBy('name','asc').get()
