@@ -14,7 +14,7 @@ const text = Anime.map((item) => {
 })
 
 const tests = [
-  'Hidan no Aria',
+  'Hidan no Aria (อาเรียกระสุนแดงเดือด)',
   'Ao no Kanata no Four Rhythm',
   'Gakusen Toshi Asterisk',
   'Charlotte',

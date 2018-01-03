@@ -21,9 +21,9 @@ let animeContent = `
     }
     for(let k = 0; k < NUM_ROW; k++) {
       if(NUM_ROW === k + 1) 
-        animeContent += (i + k) < arr.length ? `| [**${arr[i + k]}**](${SearchGoogle(arr[i + k])}) |\n` : NO_CONTENT_LAST
+        animeContent += (i + k) < arr.length ? `| [**${arr[i + k].split('(')[0].trim()}**](${SearchGoogle(arr[i + k])}) |\n` : NO_CONTENT_LAST
       else
-        animeContent += (i + k) < arr.length ? `| [**${arr[i + k]}**](${SearchGoogle(arr[i + k])}) ` : NO_CONTENT
+        animeContent += (i + k) < arr.length ? `| [**${arr[i + k].split('(')[0].trim()}**](${SearchGoogle(arr[i + k])}) ` : NO_CONTENT
     }
   }
   return animeContent
