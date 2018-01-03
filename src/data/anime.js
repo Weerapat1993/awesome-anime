@@ -56,6 +56,7 @@ const anime = [
   'Strike Blood',
   'Selector Infected WIXOSS',
   'Selector Spread WIXOSS',
+  'Aldnoah Zero',
 ]
 
 const mapArr = anime.map((item, id) => ({
