@@ -13,15 +13,7 @@ const text = Anime.map((item) => {
   anime2017 += `* [${item.name}](${item.link})\n`
 })
 
-const tests = [
-  'Hidan no Aria (อาเรียกระสุนแดงเดือด)',
-  'Ao no Kanata no Four Rhythm',
-  'Gakusen Toshi Asterisk',
-  'Charlotte',
-  'Gakkou Gurashi'
-]
-
-const testContnet = AnimeContent(tests)
+const animeLists = AnimeContent(Anime)
 
 fs.writeFileSync(`${path.join(__dirname, './README.md')}`,
 `# Awesome Anime [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Weerapat1993/awesome-anime)
@@ -30,7 +22,7 @@ fs.writeFileSync(`${path.join(__dirname, './README.md')}`,
 ${anime2017}
 
 ## Anime Lists
-${testContnet}
+${animeLists}
 `
 )
 
