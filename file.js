@@ -33,15 +33,15 @@ let testContnet = `
 for(let i = 0; i < tests.length; i = i + NUM_ROW) {
   for(let j = 0; j < NUM_ROW; j++) {
     if(NUM_ROW === j + 1) 
-      testContnet += i + j < tests.length ? `| [<img src="./src/assets/images/readme/${Case.kebab(tests[i + j])}.jpg" />](https://www.google.com/search?q=${Search(tests[i + j])}) |\n` : NO_IMAGE_LAST
+      testContnet += i + j < tests.length ? `| [<img src="./src/assets/images/readme/${Case.kebab(tests[i + j])}.jpg" />](${Search(tests[i + j])}) |\n` : NO_IMAGE_LAST
     else
-      testContnet += i + j < tests.length ? `| [<img src="./src/assets/images/readme/${Case.kebab(tests[i + j])}.jpg" />](https://www.google.com/search?q=${Search(tests[i + j])}) ` : NO_IMAGE
+      testContnet += i + j < tests.length ? `| [<img src="./src/assets/images/readme/${Case.kebab(tests[i + j])}.jpg" />](${Search(tests[i + j])}) ` : NO_IMAGE
   }
   for(let k = 0; k < NUM_ROW; k++) {
     if(NUM_ROW === k + 1) 
-      testContnet += i + k < tests.length ? `| [**${tests[i + k]}**](https://www.google.com/search?q=${Search(tests[i + k])}) |\n` : NO_CONTENT_LAST
+      testContnet += i + k < tests.length ? `| [**${tests[i + k]}**](${Search(tests[i + k])}) |\n` : NO_CONTENT_LAST
     else
-      testContnet += i + k < tests.length ? `| [**${tests[i + k]}**](https://www.google.com/search?q=${Search(tests[i + k])}) ` : NO_CONTENT
+      testContnet += i + k < tests.length ? `| [**${tests[i + k]}**](${Search(tests[i + k])}) ` : NO_CONTENT
   }
 }
 

@@ -8,7 +8,6 @@ const Search = (keyword) => {
     word = keyword.trim()
   }
   return GOOGLE_SEARCH_URL + word.replace(new RegExp(' ', 'g'), '+')
-  
 }
 
 module.exports = Search
