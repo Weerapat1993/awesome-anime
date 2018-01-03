@@ -1,6 +1,6 @@
 const GOOGLE_SEARCH_URL = 'https://www.google.com/search?q='
 
-const Search = (keyword) => {
+const SearchGoogle = (keyword) => {
   let word = keyword
   try {
     word = keyword.split('(')[0].trim()
@@ -10,4 +10,4 @@ const Search = (keyword) => {
   return GOOGLE_SEARCH_URL + word.replace(new RegExp(' ', 'g'), '+')
 }
 
-module.exports = Search
+module.exports = SearchGoogle

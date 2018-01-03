@@ -56,10 +56,12 @@
 * [Yuuki Yuuna wa Yuusha de Aru - Yuusha no Shou (ตำนานผู้กล้ายูนะ ภาคผู้กล้า)](https://www.google.com/search?q=Yuuki+Yuuna+wa+Yuusha+de+Aru+-+Yuusha+no+Shou)
 
 
-## Images
+## Anime Lists
 
 | | | | |
 | :------: | :------: | :------: | :------: |
-| [<img src="./src/assets/images/readme/hidan-no-aria.jpg" />](https://www.google.com/search?q=Hidan+no+Aria) | [<img src="./src/assets/images/readme/ao-no-kanata-no-four-rhythm.jpg" />](https://www.google.com/search?q=Ao+no+Kanata+no+Four+Rhythm) | [<img src="./src/assets/images/readme/gakusen-toshi-asterisk.jpg" />](https://www.google.com/search?q=Gakusen+Toshi+Asterisk) | [<img src="./src/assets/images/readme/hidan-no-aria.jpg" />](https://www.google.com/search?q=Hidan+no+Aria) |
-| [**Hidan no Aria**](https://www.google.com/search?q=Hidan+no+Aria) | [**Ao no Kanata no Four Rhythm**](https://www.google.com/search?q=Ao+no+Kanata+no+Four+Rhythm) | [**Gakusen Toshi Asterisk**](https://www.google.com/search?q=Gakusen+Toshi+Asterisk) | [**Hidan no Aria**](https://www.google.com/search?q=Hidan+no+Aria) |
+| [<img src="./src/assets/images/readme/hidan-no-aria.jpg" />](https://www.google.com/search?q=Hidan+no+Aria) | [<img src="./src/assets/images/readme/ao-no-kanata-no-four-rhythm.jpg" />](https://www.google.com/search?q=Ao+no+Kanata+no+Four+Rhythm) | [<img src="./src/assets/images/readme/gakusen-toshi-asterisk.jpg" />](https://www.google.com/search?q=Gakusen+Toshi+Asterisk) | [<img src="./src/assets/images/readme/charlotte.jpg" />](https://www.google.com/search?q=Charlotte) |
+| [**Hidan no Aria**](https://www.google.com/search?q=Hidan+no+Aria) | [**Ao no Kanata no Four Rhythm**](https://www.google.com/search?q=Ao+no+Kanata+no+Four+Rhythm) | [**Gakusen Toshi Asterisk**](https://www.google.com/search?q=Gakusen+Toshi+Asterisk) | [**Charlotte**](https://www.google.com/search?q=Charlotte) |
+| [<img src="./src/assets/images/readme/gakkou-gurashi.jpg" />](https://www.google.com/search?q=Gakkou+Gurashi) | **NO IMAGE** | **NO IMAGE** | **NO IMAGE** |
+| [**Gakkou Gurashi**](https://www.google.com/search?q=Gakkou+Gurashi) | | | |
 
