@@ -56,6 +56,10 @@
 * [Yuuki Yuuna wa Yuusha de Aru - Yuusha no Shou (ตำนานผู้กล้ายูนะ ภาคผู้กล้า)](https://www.google.com/search?q=Yuuki+Yuuna+wa+Yuusha+de+Aru+-+Yuusha+no+Shou)
 
 ## Test 
+![Gakusen Toshi Asterisk](./src/assets/images/readme/gakusen-toshi-asterisk.jpg | width=125)
+![Gakusen Toshi Asterisk](./src/assets/images/readme/gakusen-toshi-asterisk.jpg =125x250)
+![Gakusen Toshi Asterisk](./src/assets/images/readme/gakusen-toshi-asterisk.jpg){:height="125px" width="250px"}
+
 | | |
 | :------: | :------: |
 | ![Gakusen Toshi Asterisk](./src/assets/images/readme/gakusen-toshi-asterisk.jpg) | ![Ao no Kanata no Four Rhythm](./src/assets/images/readme/ao-no-kanata-no-four-rhythm.jpg) |
