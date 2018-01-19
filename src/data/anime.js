@@ -58,7 +58,7 @@ const anime = [
   'Selector Infected WIXOSS',
   'Selector Spread WIXOSS',
   'Lostorage Incited WIXOSS',
-  'Lostorage Conflated WIXOSS'
+  'Lostorage Conflated WIXOSS',
   'Aldnoah Zero',
   'Another!',
   'Noragami',
