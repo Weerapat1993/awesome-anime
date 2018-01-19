@@ -24,9 +24,9 @@ let animeContent = `
     
     for(let j = 0; j < NUM_ROW; j++) {
       if(NUM_ROW === j + 1) 
-        animeContent += (i + j) < arr.length ? `| [<img src="${Asset('/images/readme', arr[i + j].name)}" />](${SearchGoogle(arr[i + j].name)}) |\n` : NO_IMAGE_LAST
+        animeContent += (i + j) < arr.length ? `| [<img src="${Asset('/images/readme', arr[i + j].name)}" width="200" />](${SearchGoogle(arr[i + j].name)}) |\n` : NO_IMAGE_LAST
       else
-        animeContent += (i + j) < arr.length ? `| [<img src="${Asset('/images/readme', arr[i + j].name)}" />](${SearchGoogle(arr[i + j].name)}) ` : NO_IMAGE
+        animeContent += (i + j) < arr.length ? `| [<img src="${Asset('/images/readme', arr[i + j].name)}" width="200" />](${SearchGoogle(arr[i + j].name)}) ` : NO_IMAGE
     }
     for(let k = 0; k < NUM_ROW; k++) {
       if((i + k) < arr.length) {
