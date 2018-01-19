@@ -34,7 +34,7 @@ const anime = [
   'Fate/Stay Night',
   'Fate/Ultimate Blade Works',
   'Fate/kaleid liner PRISMA ILLYA',
-  'Fate/kaleid liner PRISMA ILLYA 2wei Herz',
+  'Fate/kaleid liner PRISMA ILLYA 2wei Herz!',
   'Fate/kaleid liner PRISMA ILLYA 3rei!!',
   'Hai to Gensou no Grimgar (ขี้เถ้าในแดนกริมการ์)',
   'High School Fleet',
