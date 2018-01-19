@@ -26,7 +26,7 @@ const anime = [
   'Boku dake ga Inai Machi',
   'Attack on Titan (ผ่าพิภพไททั่น)',
   'Koutetsujou no Kabaneri (ผ่าพิภพซอมบี้)',
-  'Kyoukai no Kanana',
+  'Kyoukai no Kanata',
   'New Game!',
   'New Game!!',
   'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka',
