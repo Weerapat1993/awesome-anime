@@ -26,7 +26,7 @@ const anime = [
   'Boku dake ga Inai Machi',
   'Attack on Titan (ผ่าพิภพไททั่น)',
   'Koutetsujou no Kabaneri (ผ่าพิภพซอมบี้)',
-  'Kyoukai no Kantana',
+  'Kyoukai no Kanana',
   'New Game!',
   'New Game!!',
   'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka',
@@ -65,7 +65,10 @@ const anime = [
   'Another!',
   'Noragami',
   'Noragami Aragoto',
-  'Shirobako! (สารคดีวงการ Animation)'
+  'Shirobako! (สารคดีวงการ Animation)',
+  'Tamako Market',
+  'Gakusen Toshi Asterisk',
+  'Gakusen Toshi Asterisk SS2'
 ]
 
 const mapArr = anime.map((item, id) => ({
