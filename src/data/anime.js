@@ -41,11 +41,12 @@ const anime = [
   'Nanoha The Movie 1st',
   'Nanoha The Movie 2nd',
   'Nanoha The Movie 3rd Reflection',
+  'Nanoha The Movie 4th Detonation',
   'Mahou Shoujo Lyrical Nanoha Striker',
   'Mahou Shoujo Lyrical Nanoha Vivid',
-  'Vivid Strike',
+  'Vivid Strike (ก้าวแรกสู่สังเวียน เวอร์ชั่นสาวน้อย)',
   'Magical Girl Rising Project (โครงการสาวน้อยเวทย์มนต์)',
-  'Mahou Shoujo Madoka Magika',
+  'Mahou Shoujo Madoka Magika (สาวน้อยเวทย์มนตร์ มาโดกะ)',
   'Re:Zero (รีเซ็ตชีวิตผ่าวิกฤตต่างโลก)',
   'Magi The Labyrinth of Magic (อาละดินผจญภัย)',
   'Hidan no Aria (อาเรียกระสุนแดงเดือด)',
@@ -53,10 +54,16 @@ const anime = [
   'Black Bullet (กระสุนมรณะ นัยตาอสูร)',
   'To Aru Kagaku no Railgun (เรลกัน แฟ้มลับคดีวิทยาศาสตร์)',
   'To Aru Majutsu no Index (อินเด็กซ์ คัมภรีคถาต้องห้าม)',
-  'Strike Blood',
+  'Strike Blood (สายเลือดแท้ที่ 4)',
   'Selector Infected WIXOSS',
   'Selector Spread WIXOSS',
+  'Lostorage Incited WIXOSS',
+  'Lostorage Conflated WIXOSS'
   'Aldnoah Zero',
+  'Another!',
+  'Noragami',
+  'Noragami Aragoto',
+  'Shirobako! (สารคดีวงการ Animation)'
 ]
 
 const mapArr = anime.map((item, id) => ({
