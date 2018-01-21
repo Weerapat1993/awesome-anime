@@ -65,10 +65,12 @@ const anime = [
   'Another!',
   'Noragami',
   'Noragami Aragoto',
-  'Shirobako! (สารคดีวงการ Animation)',
+  'Shirobako! (สารคดีวงการ Animator)',
   'Tamako Market',
   'Gakusen Toshi Asterisk',
-  'Gakusen Toshi Asterisk SS2'
+  'Gakusen Toshi Asterisk SS2',
+  'AKB0048',
+  'AKB0048 Next Stage'
 ]
 
 const mapArr = anime.map((item, id) => ({
