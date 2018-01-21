@@ -26,28 +26,4 @@ ${animeLists}
 `
 )
 
-const contents = [
-  'Kore wa Zombie desu ka',
-  'Nanoha',
-]
-
-contents.map(content => {
-  fs.writeFileSync(`${path.join(__dirname, `./src/content/${Case.snake(content)}.md`)}`,
-`# ${content}
-
-| ${content} |
-| :------:|
-| ![${content}](../assets/images/${Case.snake(content)}.jpg) |
-
-## เนื้อเรื่อง
-
-Laboris adipisicing et aliquip do anim amet fugiat veniam duis elit elit non. Elit do reprehenderit est ipsum proident cillum minim dolore culpa id nulla sit. Nisi duis sunt nulla ipsum labore irure amet.
-
-## ตัวละคร
-
-Laboris adipisicing et aliquip do anim amet fugiat veniam duis elit elit non. Elit do reprehenderit est ipsum proident cillum minim dolore culpa id nulla sit. Nisi duis sunt nulla ipsum labore irure amet.
-
-`)
-})
-
 log.success('created README.md file success!!')
