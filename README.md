@@ -59,7 +59,7 @@
 * [Saki Zenkoku Hen](https://www.google.com/search?q=Saki+Zenkoku+Hen) (เซียนสาวไพ่นกกระจอก - ภาคระดับประเทศ)
 * [Selector Infected WIXOSS](https://www.google.com/search?q=Selector+Infected+WIXOSS) (`DEX`)
 * [Selector Spread WIXOSS](https://www.google.com/search?q=Selector+Spread+WIXOSS) (`DEX`)
-* [Shirobako!](https://www.google.com/search?q=Shirobako!) (สารคดีวงการ Animator) (`DEX`)
+* [Shirobako!](https://www.google.com/search?q=Shirobako!) (สารคดีวงการ Animator) (`Netflix`)
 * [Strike Blood](https://www.google.com/search?q=Strike+Blood) (สายเลือดแท้ที่ 4)
 * [Strike Witches](https://www.google.com/search?q=Strike+Witches)
 * [Tamako Market](https://www.google.com/search?q=Tamako+Market) (ตลาดไข่) (`DEX`)

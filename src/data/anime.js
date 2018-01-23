@@ -70,7 +70,7 @@ const anime = [
   `Another! ${LC.FLIXER}`,
   `Noragami ${LC.NETFLIX}`,
   `Noragami Aragoto`,
-  `Shirobako! (สารคดีวงการ Animator) ${LC.FLIXER}`,
+  `Shirobako! (สารคดีวงการ Animator) ${LC.NETFLIX}`,
   `Tamako Market (ตลาดไข่) ${LC.FLIXER}`,
   `Gakusen Toshi Asterisk`,
   `Gakusen Toshi Asterisk SS2`,
