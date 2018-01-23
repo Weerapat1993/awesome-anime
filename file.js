@@ -10,7 +10,12 @@ log.info('creating README.md file ...')
 let anime2017 = ''
 
 const text = Anime.map((item) => {
-  anime2017 += `* [${item.name}](${item.link})\n`
+  const thaiName = item.name.split('(').slice(1).join('(').trim()
+  if(!thaiName) {
+    anime2017 += `* [${item.name.split('(')[0].trim()}](${item.link})\n`
+  } else {
+    anime2017 += `* [${item.name.split('(')[0].trim()}](${item.link}) (${thaiName}\n`
+  }
 })
 
 const animeLists = AnimeContent(Anime)
